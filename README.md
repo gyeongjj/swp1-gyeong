@@ -1,3 +1,3 @@
-# 20203xxx	kim do gyeong
+# 20201234	kim do gyeong
 # Kookmin Univ. Computer Science
 
