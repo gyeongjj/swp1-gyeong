@@ -3,12 +3,10 @@ html = b"""
     <body>
         <form method="get" action="">
             <p>
-                sum : <input type="number" name="a" >
-                    + <input type="number" name="b" >
+                first number : <input type="number" name="a" >
             </p>
             <p>
-                prod : <input type="number" name="a">
-                     x <input type="number" name="b">
+                second number : <input type="number" name="b">
             </p>
             <p>
             <input type="submit" value="Submit">
